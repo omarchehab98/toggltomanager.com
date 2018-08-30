@@ -25,26 +25,6 @@ Toggl To Manager integration generates Billable Time entries in Manager.io based
 
 ➤ Clockify Support
 
-![](https://www.toggltomanager.com/assets/slide0.png)
-
-Give the integration access to Toggl and Manager
-
-
-![](https://www.toggltomanager.com/assets/slide1.png)
-
-Choose your Toggl Workspace and Manager Business
-
-
-![](https://www.toggltomanager.com/assets/slide2.png)
-
-Associate a Toggl Client to a Manager Customer
-
-
-![](https://www.toggltomanager.com/assets/slide3.png)
-
-Preview the Manager Billable Time you are about to generate
-
-
 ### What you have
 
 ![](https://www.toggltomanager.com/assets/toggl-report.png)
