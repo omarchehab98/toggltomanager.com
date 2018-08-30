@@ -23,6 +23,7 @@ Toggl To Manager integration generates Billable Time entries in Manager.io based
 
 ➤ Customizable description and total amounts in Manager, you can edit and adjust the information after you import them from Toggl into Manager Invoice
 
+➤ Clockify Support
 
 ![](https://www.toggltomanager.com/assets/slide0.png)
 
@@ -51,3 +52,7 @@ Preview the Manager Billable Time you are about to generate
 ### What you want
 
 ![](https://www.toggltomanager.com/assets/manager-billable-time.png)
+
+## Open Source
+
+https://gitlab.com/247studios/toggl-to-manager
